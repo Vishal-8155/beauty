@@ -1,0 +1,11 @@
+{
+  "name": "beauty-web",
+  "version": "1.0.0",
+  "description": "Beauty Web Project",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'No build step defined. Open index.html in your browser.'"
+  },
+  "author": "",
+  "license": "ISC"
+}
