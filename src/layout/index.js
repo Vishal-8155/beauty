@@ -6,7 +6,7 @@ export default {
   components: { BnbNavbar },
   template: /* HTML */ `
     <div class="bnb-layout is-flex is-flex-direction-column has-background-link-light">
-      <b-loading :active="loading" :is-full-page="false"></b-loading>
+      
       <bnb-navbar class="is-flex-shrink-0" />
       <div style="min-height:0" class="is-flex is-flex-grow-1 p-4">
         <section class="container is-flex m-auto bnb-layout__workspace">
